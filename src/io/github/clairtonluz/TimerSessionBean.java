@@ -1,4 +1,4 @@
-package br.com.teste;
+package io.github.clairtonluz;
 
 import java.util.logging.Logger;
 
